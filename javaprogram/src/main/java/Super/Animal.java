@@ -1,5 +1,5 @@
 package Super;
-
+//Animal is the parent class
 public class Animal {
 	String col="Black";
 	public void eat() {
@@ -7,7 +7,7 @@ public class Animal {
 	}
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
+		
 
 	}
 

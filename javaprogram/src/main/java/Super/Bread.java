@@ -1,5 +1,5 @@
 package Super;
-
+//Parent class for Jam
 public class Bread {
 	Bread(String eat)
 	{
@@ -12,6 +12,7 @@ public class Bread {
 
 	public static void main(String[] args) {
 		
+		Bread obj=new Bread();
 
 	}
 
